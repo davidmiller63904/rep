@@ -3,4 +3,5 @@ export interface IScreen {
   height: number;
   dpi: number;
   cost: number;
+  model: string;
 }
